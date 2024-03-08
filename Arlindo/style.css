@@ -1,0 +1,35 @@
+body{
+    background: #1E2025;
+    overflow: hidden;
+}
+
+#perfil{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.divperfil{
+    display: flex;
+    margin: 50px 0px 0px 20px;
+    width: 200px;
+}
+
+.nome{
+    width: 500;
+}
+
+.icon{
+    background: blue;
+    margin-top: 150px;
+    margin-left: 85px;
+    width: 70px;
+    height: 340px;
+    border-radius: 25px;
+}
+
+.icon img {
+    display: flex;
+    width: 40px;
+    padding-left: 15px;
+    margin-top: 34px;
+}
