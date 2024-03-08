@@ -1,0 +1,47 @@
+body{
+    background: #1E2025;
+}
+
+img{
+    border-radius: 50%;
+    width: 280px;
+    margin: 40px 0px 0px 20px
+}
+
+.imagem{
+    display: flex;
+}
+
+.bg-name{
+    width: 500px;
+    height: 100px;
+    background: #3C5665;
+    border-radius: 10px;
+    margin: -250px 0px 0px 600px ;
+    display: flex;
+
+}
+
+.icons img {
+    display: flex;
+    width: 40px;
+    padding: 5px;
+}
+
+.icons{
+    margin-top: 180px;
+    margin-left: 100px;
+}
+
+.bg-img{
+    background: #3C5665;
+    border-radius: 25px;
+    width: 85px;
+}
+
+ h1{
+    color: antiquewhite;
+    margin-left: 170px;
+    margin-top: 30px;
+    letter-spacing: 5px;
+ }
